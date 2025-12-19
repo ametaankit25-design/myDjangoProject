@@ -254,4 +254,8 @@ See `AUTHENTICATION_SETUP.md` for detailed SMTP configuration instructions.
 ## Support
 
 For issues or questions, please check the Django documentation or create an issue in the project repository.
+<img width="1914" height="1074" alt="Screenshot 2025-12-19 083811" src="https://github.com/user-attachments/assets/d24936fc-82bd-411c-981f-2917f83bdb95" />
+
+
+
 
