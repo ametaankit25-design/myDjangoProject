@@ -254,8 +254,7 @@ See `AUTHENTICATION_SETUP.md` for detailed SMTP configuration instructions.
 ## Support
 
 For issues or questions, please check the Django documentation or create an issue in the project repository.
-<img width="1914" height="1074" alt="Screenshot 2025-12-19 083811" src="https://github.com/user-attachments/assets/d24936fc-82bd-411c-981f-2917f83bdb95" />
-<img width="1914" height="1079" alt="Screenshot 2025-12-19 083853" src="https://github.com/user-attachments/assets/5ac82587-ff42-482c-a157-8650516cf150" />
+
 
 
 <img width="1919" height="1079" alt="Screenshot 2025-12-19 083818" src="https://github.com/user-attachments/assets/87b9e2e4-0471-499e-a2f7-11acfb9af9b6" /><img width="1916" height="1075" alt="Screenshot 2025-12-19 083826" src="https://github.com/user-attachments/assets/3b3a672a-1707-477f-bdc9-8779e0a43db0" />
@@ -267,5 +266,8 @@ For issues or questions, please check the Django documentation or create an issu
 
 
 
+<img width="1907" height="891" alt="Screenshot 2025-12-19 082819" src="https://github.com/user-attachments/assets/4b32c6a3-683b-4230-855b-dfe3b9d5d796" />
 
+
+<img width="1916" height="1079" alt="Screenshot 2025-12-18 185946" src="https://github.com/user-attachments/assets/48e5f910-58c3-487a-ae1e-d818bf66077f" />
 
